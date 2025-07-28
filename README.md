@@ -79,15 +79,8 @@ Then run the notebook cell-by-cell on [Google Colab](https://colab.research.goog
 
 ----------------------------------------------------------------------------------------------------------------
 
-## 📬 Contact
 
-Created with 💡 by \[Your Name]
-
-````
-
----
-
-## ✅ Google Colab Notebook (Copy-Paste Ready)
+ ✅ Google Colab Notebook (Copy-Paste Ready)
 
 I’ll now give you the **Colab notebook content** with **step-by-step comments** so you can understand it clearly. You can paste this into a new `.ipynb` or Colab notebook:
 
